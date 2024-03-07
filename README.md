@@ -6,19 +6,22 @@ Develop a simple Gradient Descent algorithm
 ![Page2](https://raw.githubusercontent.com/ratikaewkam/GradientDescent/main/document/Page2.png)
 
 ### Example 1.1
-#### f(x) = ((x/7) - 2)^2 + 5
+**f(x) = ((x/7) - 2)^2 + 5**
+
 ![normal-rate](https://raw.githubusercontent.com/ratikaewkam/GradientDescent/main/gif/normal-rate.gif)
 
 Example of using the Gradient Descent algorithm with a normal learning rate.
 
 ### Example 1.2
-#### f(x) = ((x/7) - 2)^2 + 5
+**f(x) = ((x/7) - 2)^2 + 5**
+
 ![high-rate](https://raw.githubusercontent.com/ratikaewkam/GradientDescent/main/gif/high-rate.gif)
 
 Example of using the Gradient Descent algorithm with a high learning rate.
 
 ### Example 2
-#### f(x, y) = ((sin 2x)(cos 2y)) / 2
+**f(x, y) = ((sin 2x)(cos 2y)) / 2**
+
 ![3D](https://raw.githubusercontent.com/ratikaewkam/GradientDescent/main/gif/3D.gif)
 
 ## Installation
